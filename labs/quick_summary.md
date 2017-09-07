@@ -1,7 +1,7 @@
 # Lab​ ​1:​ ​Summary​ ​from​ ​Chapter​ ​1
   * Random​ ​sampling​ means
-    * All individuals in the population have an equal chance of being included,
-    * The sampling events are independent draws from the population
+    1. All individuals in the population have an equal chance of being included,
+    2. The sampling events are independent draws from the population
   * Most estimation methods and hypothesis tests assume that the data are a random sample from the population.
   * Biased​ ​sampling​ means some individuals are more likely than others to be selected.
   * Estimates​ are calculated from data. The goal of an estimator is to give values close to the true parameter​ ​value​.
